@@ -1,0 +1,5 @@
+rootProject.name = 'Typhoon'
+include 'Crawler'
+include 'Viewer'
+include 'DatasetUploader'
+
