@@ -1,7 +1,7 @@
 # Typhoon
 [CHINESE | 中文](https://github.com/iceBear67/Typhoon/blob/master/README_ZH.md)  
 Crawling images then improve quality by using Baidu EasyDL.  
-(Many typos... I have to say sorry but I really tried my best..)  
+(Many typos... I have to say sorry,but I really tried my best..)  
 *Work in progress!*
 
 # How is it work
